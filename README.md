@@ -1,4 +1,4 @@
-# SQL-Cleaning-Covid-Data
+# SQL-DataCleaning-Covid-Dataset
 
 This is my first Portfolio project where I trim down and clean the covid data set using SQL. 
 
